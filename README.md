@@ -19,3 +19,4 @@ You need to install dynare to run the code.
 
 ## Results
 ![img](https://github.com/jren-jane/temporary-VAT-cut-in-liquidity-trap/blob/master/output.png)
+![img](https://github.com/jren-jane/temporary-VAT-cut-in-liquidity-trap/blob/master/inflation.png)
